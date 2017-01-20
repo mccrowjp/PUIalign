@@ -1,0 +1,13 @@
+scoringmatrix=BLOSUM62.csv
+gapopen=-11
+gapext=-1
+alignradius=40
+alignradiusext=20
+matchradius=15
+minmatchscore=100
+mingapscore=80
+minmatchscoredifflower=0
+minmatchscorediffupper=11
+mingapscorediff=4
+findbestgaps=F
+maxparts=4
